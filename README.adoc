@@ -14,7 +14,7 @@ Assim, será criada uma cópia do repositório que você pode alterar como desej
 
 == 2. Ferramentas recomendadas
 
-- JDK 23 ou superior
+- JDK 24 ou superior
 - IntelliJ IDE
 
 == 3. Baixar o JavaDoc do JDK e de bibliotecas utilizadas
